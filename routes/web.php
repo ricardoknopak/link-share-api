@@ -26,3 +26,4 @@ $router->group(['prefix' => 'api', 'middleware' => 'authenticator'], function ()
 });
 
 $router->post('/api/login', 'TokenController@gerarToken');
+$router->post('/api/parse', 'ScrapeHtmlController@parse');
