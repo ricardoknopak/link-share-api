@@ -43,11 +43,4 @@ class BaseController extends Controller
         }
         return response()->json('', 204);
     }
-
-    public function findByName(String $descricao) {
-        $recurso = DB::table('receitas')
-                ->where('descricao', 'like', '%' . $descricao . '%')
-                ->get();
-        return $recurso;
-    }
 }
