@@ -1,0 +1,24 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#f7928f",
+        "activityBar.activeBorder": "#e1fde2",
+        "activityBar.background": "#f7928f",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#e1fde2",
+        "activityBarBadge.foreground": "#15202b",
+        "sash.hoverBorder": "#f7928f",
+        "statusBar.background": "#f4645f",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#f1362f",
+        "statusBarItem.remoteBackground": "#f4645f",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#f4645f",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#f4645f99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#F4645F",
+    "php.validate.executablePath": "C:\\php74\\php.exe",
+    "intelephense.environment.phpVersion": "7.4",
+}
